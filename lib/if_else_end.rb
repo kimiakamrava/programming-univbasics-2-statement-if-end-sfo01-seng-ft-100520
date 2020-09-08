@@ -1,3 +1,2 @@
-time.now.select_year
-
+puts "Hello"
  
