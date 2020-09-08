@@ -1,1 +1,2 @@
-require 'Time'
+require 'time'
+time = Time.now
