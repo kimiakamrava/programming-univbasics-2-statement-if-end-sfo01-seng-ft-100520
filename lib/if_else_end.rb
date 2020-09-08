@@ -1,3 +1,3 @@
 require 'time'
 time = Time.now
-puts
+puts time
